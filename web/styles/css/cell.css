@@ -1,0 +1,27 @@
+table {
+border-collapse :collapse
+}
+th, td {
+padding: 10px;
+border: 1px solid black;
+}
+th {
+background: rgba(16, 255, 255, 0.7);
+text-align: center;
+font: weight 900;;
+}
+td {
+text-align: left;
+}
+tr {
+background: rgba(40, 58, 221, 0.096);
+font-weight:bold;
+}
+tr:nth-child(even) {
+background: rgba(0, 255, 255, 0.062);
+}
+
+#cell {
+width:600px;
+}
+    
