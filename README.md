@@ -2,7 +2,7 @@
 
 ## 제작동기
 ![why.png](https://github.com/kimyooncheol/2019_SchoolProject/blob/master/image/why.png?raw=true)
-심박 수 센서와 리얼타임클록 모듈과 접목시켜 시계를 만들고<br>서버와 연동하여 측정한 데이터를 저장하고, 차트화 시키면 어떨까 하여 제작하게 되었다.
+심박 수 센서와 리얼타임클록 모듈과 접목시켜 시계를 만들고<br>서버와 연동하여 측정한 데이터를 저장하고, 차트화 시키면 어떨까 하여 제작하게 되었습니다.
 ## 제작 과정
 ![made2.png](https://github.com/kimyooncheol/2019_SchoolProject/blob/master/image/map.PNG?raw=true)<br>
 **구조도 제작**<br>
@@ -21,9 +21,6 @@
 **차트와 그래프가 포함된 페이지**
 ## 성과
 - 전공동아리 발표 우수상
-- 백엔드와 프론트엔드 기초 공부
-## 버그
-- 아두이노측에서 WIFI로 통신하는 부분의 작동이 확인되지 않았다.  
 ## 개발자
 - 하우징 설계 및 제작: 김영원
 - 코딩 및 회로 설계: 김윤철
