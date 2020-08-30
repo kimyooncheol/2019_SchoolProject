@@ -1,4 +1,4 @@
-# [종합선물 시계](https://github.com/kimyooncheol/2019_SchoolProject)
+# 종합선물 시계
 
 ## 제작동기
 ![why.png](https://github.com/kimyooncheol/2019_SchoolProject/blob/master/image/why.png?raw=true)
